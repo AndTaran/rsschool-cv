@@ -1,5 +1,5 @@
 1. Andrey, Taranenko
-2. Summary:
+2. Contact Info:
    * E-mail: Skorp93ru@yandex.ru
    * Skype: Skorp93
 3. Summary: Start a career as a junior developer and grow to senior developer. In a nutshell about myself: I like to think, learn and communicate, I work a lot and with pleasure

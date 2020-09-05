@@ -1,0 +1,21 @@
+
+.container {
+   padding-top: 5px;
+   max-width: 1024px;
+   margin: 0 auto;
+   /* font-family: Verdana, Geneva, Tahoma, sans-serif, 'Arial Narrow', Arial, sans-serif, Courier, monospace; */
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   height: 100vh;
+}
+.title {
+   text-align: center;
+   text-decoration: underline;
+   padding-bottom: 20px;
+}
+.img {
+   width: 150px;
+   height: 150px;
+}
+.resume a { color: black; }
+.resume li { padding: 5px 0px; }
+.text { max-width: 70%; }
