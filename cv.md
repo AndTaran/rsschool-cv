@@ -1,4 +1,4 @@
-1. Andrey, Taranenko
+1. Andrey Taranenko
 2. Contact Info:
    * E-mail: Skorp93ru@yandex.ru
    * Skype: Skorp93
